@@ -1,4 +1,4 @@
- I have created a Project using React.js which mainly focuses on Advance Searching and Filtering methods  as mentioned in task. In this Project, we can easily Search any Product directly using Search Bar and also on the basis of  Different 
+ I have created a Project using React.js which mainly focuses on Advance Searching and Filtering methods. In this Project, we can easily Search any Product directly using Search Bar and also on the basis of  Different 
  Categories like on the basis of Product Name, Brand, Color, Price, etc. and I also tried to make it responsive so we can access it easily using any device irrespective of there screen size.
 
 ![Screenshot 2024-03-17 230758](https://github.com/Adii-sharma/Advanced-filtering-React/assets/104681131/d7569dc8-2e08-4a9f-8fae-f49a84dc106b)
